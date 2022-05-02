@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","names":["default","Button","Text"],"sources":["../src/index.js"],"sourcesContent":["export { default as Button } from \"./Button\";\r\nexport { default as Text } from \"./Text\";\r\n"],"mappings":"AAAA,SAASA,OAAO,IAAIC,MAApB,QAAkC,UAAlC;AACA,SAASD,OAAO,IAAIE,IAApB,QAAgC,QAAhC"}
